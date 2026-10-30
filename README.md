@@ -9,6 +9,8 @@ brew install thiennq/vnsay/vnsay
 
 The formula installs the prebuilt binary from
 [thiennq/vnsay-releases](https://github.com/thiennq/vnsay-releases).
+vnsay 0.1.0 is a pre-release and is not signed yet; Homebrew installs it
+without a Gatekeeper prompt.
 This tap was called `homebrew-zerotts`; old links redirect here.
 
 ## Credits and license
